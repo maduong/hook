@@ -3,6 +3,10 @@
     "description": "Edutalk hook",
     "license": "MIT",
     "homepage": "http://edutalk.vn",
+    "support": {
+        "issues": "https://github.com/maduong/hook/issues",
+        "source": "https://github.com/maduong/hook"
+    },
     "authors": [
         {
             "name": "Vuong Pham",
